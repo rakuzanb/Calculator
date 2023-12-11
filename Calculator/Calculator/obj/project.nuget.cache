@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XceSkq3ArXkM/l67tJyx3yhw/qzzJ8G92UYUWfJvud5FFlk1sA2JQ2RTCKGimCFn7gL1sTk5Q1nLrr1PMVkfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rakuz\\OneDrive\\Desktop\\trash\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakuz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\rakuz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\rakuz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\rakuz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
